@@ -4,5 +4,3 @@ textdistance
 torch
 transformers
 sentencepiece
-re
-collections
